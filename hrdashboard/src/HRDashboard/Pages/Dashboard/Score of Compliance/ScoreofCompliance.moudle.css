@@ -1,0 +1,16 @@
+.firstComponentRatio>div {
+    width: 30%;
+}
+
+.firstComponentRatio>div>svg>text {
+    font-size: 1.5rem !important;
+    font-family: 'Nunito' sans-serif;
+    font-weight: bold;
+}
+
+.firstComponentRatio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

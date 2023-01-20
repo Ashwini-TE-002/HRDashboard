@@ -1,0 +1,22 @@
+.ActivityRespondentsComponent {
+    width: 100%;
+    height: auto;
+}
+
+.ActivityRespondents {
+    background-color: #fff;
+    padding: 1rem;
+    width: 100%;
+    border-radius: 20px;
+    /* margin-top: 1rem; */
+}
+
+.eventsSub-Txt h6 {
+    font-size: 14px;
+    font-weight: 800;
+    font-family: 'Outfit', sans-serif;
+}
+
+.events-ratio {
+    color: #02C94F;
+}

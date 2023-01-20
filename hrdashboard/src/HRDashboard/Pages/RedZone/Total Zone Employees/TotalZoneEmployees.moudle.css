@@ -1,0 +1,52 @@
+.Redzone-headding h6 {
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: #467EEA;
+    position: relative;
+    font-family: "Outfit", sans-serif;
+}
+
+.Redzone-headding h6::before {
+    position: absolute;
+    content: "";
+    width: 65px;
+    height: 4px;
+    background-color: #FA3B4E;
+    top: 1.7rem;
+    border-radius: 10px;
+}
+
+.redzone-box {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 20px;
+
+}
+
+.redzone-wrapper h1 {
+    font-size: 4rem;
+    color: #FA3B4E;
+}
+
+.redzone-wrapper span {
+    font-size: 1rem;
+    margin: 5px;
+}
+
+.redzone-wrapper h4 {
+    font-size: 2rem;
+}
+
+/* .redzoneChart {
+    width: 100%;
+    height: 200%;
+} */
+.TotalZoneEmployees {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.TeamScore-section {
+    margin-bottom: 1rem;
+}

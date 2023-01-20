@@ -1,0 +1,28 @@
+.backButton {
+    margin-top: 4rem;
+}
+
+.backButton span {
+    margin-left: 8px;
+    color: black;
+    font-weight: 700;
+}
+
+.Energyand_Workplace h6 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #467EEA;
+    margin-bottom: 1.7rem;
+    position: relative;
+    font-family: 'Outfit', sans-serif;
+}
+
+.Energyand_Workplace h6:before {
+    position: absolute;
+    width: 60px;
+    height: 5px;
+    content: "";
+    background-color: #467EEA;
+    top: 2.5rem;
+    border-radius: 10px;
+}

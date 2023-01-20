@@ -1,0 +1,35 @@
+.fitnessEvents-Div {
+    background-color: #fff;
+    padding: 1rem;
+    /* width: fit-content; */
+    border-radius: 20px;
+}
+
+.fitness-box-parent {
+    position: relative;
+}
+
+.fitness-iconBox {
+    position: absolute;
+    background: #75C1FF;
+    color: #fff;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    top: -1rem;
+    left: 80%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.Fitness_circularBar {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.fitness-viewBtn {
+    outline: none;
+    border: none;
+    color: blue;
+    background: transparent;
+}

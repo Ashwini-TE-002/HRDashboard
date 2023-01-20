@@ -1,0 +1,12 @@
+.LifestyleManagementBarchat {
+    width: 100%;
+    height: fit-content;
+}
+
+.LifestyleManagement {
+    background-color: #fff;
+    border-radius: 20px;
+    width: max-content;
+    padding: 1rem 1rem;
+    margin-top: 1rem;
+}

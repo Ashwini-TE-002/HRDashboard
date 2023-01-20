@@ -1,0 +1,16 @@
+.topTeams_box {
+    background-color: #fff;
+    width: 800px;
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.topTeams-progressbar {
+    width: 50%;
+}
+
+.Percentages {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.669);
+    font-weight: 900;
+}

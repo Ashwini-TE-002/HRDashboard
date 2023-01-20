@@ -1,0 +1,57 @@
+.ResponseRate_Ratio>div {
+    width: 50em !important;
+}
+
+.responseRate-img {
+    width: 19px;
+    height: 12px;
+}
+
+.ResponseRate_sectionWrap {
+    /* width: 46%; */
+    height: fit-content;
+    align-items: center;
+    padding: 1rem;
+    background: #fff;
+    border-radius: 20px;
+}
+
+.meter>div>svg>text {
+    font-size: 1.5rem !important;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+}
+
+.ResponseRate_Ratio {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.ResponseRatio-contbox {
+    padding: 1rem 0;
+    text-align: left;
+}
+
+.ResponseRatio-contbox span {
+    font-size: 11px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.RatioTxt {
+    font-size: 0.8rem;
+    font-family: 'Outfit', sans-serif;
+}
+
+.updateData {
+    color: #A0A2B1;
+    font-size: 12px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.Engagementscore-Details {
+    border: none;
+    color: #007AFF;
+    background-color: transparent;
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.8rem;
+}

@@ -1,0 +1,71 @@
+.Radialbar-chat {
+    padding: 1rem;
+    /* margin-top: 1.1rem; */
+    border-radius: 20px;
+    height: auto;
+    background-color: #fff;
+    width: 97%;
+}
+
+
+/* data- indicators */
+.first-indicator {
+    background: #49DEB2;
+    width: 20px;
+    height: 20px;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+.data-indicator-txt {
+    font-family: 'Outfit', sans-serif;
+    font-size: 10px;
+    margin: 0;
+}
+
+.second-indicator {
+    background: #FFC727;
+    width: 20px;
+    height: 20px;
+    border-radius: 30px;
+    margin-right: 10px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.third-indicator {
+    background: #FA3B4E;
+    width: 20px;
+    height: 20px;
+    border-radius: 30px;
+    margin-right: 10px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.radialbar-txt h5 {
+    color: #467EEA;
+    font-size: 1.2rem;
+    font-weight: 900;
+    position: relative;
+    font-family: 'Outfit', sans-serif;
+}
+
+.radialbar-txt h5:before {
+    position: absolute;
+    width: 50px;
+    height: 4px;
+    top: 1.5rem;
+    border-radius: 10px;
+    content: "";
+    background-color: #467EEA;
+
+}
+
+.radialbar-wraping {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .radialbar-div {
+    width: 100%;
+    height: 100%;
+} */

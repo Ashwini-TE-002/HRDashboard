@@ -1,0 +1,48 @@
+.RiskEmployee {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 20px;
+    margin-top: 3rem;
+}
+
+.RiskEmp-Txt h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #467EEA;
+    font-family: "Outfit", sans-serif;
+    position: relative;
+}
+
+.RiskEmp-Txt h1::before {
+    position: absolute;
+    content: "";
+    width: 65px;
+    height: 4px;
+    background-color: #FA3B4E;
+    top: 2rem;
+    border-radius: 10px;
+}
+
+.riskemployee {
+    background-color: #F1F4F9;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.Employee_informaction {
+    padding: 1rem;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.scoreButton {
+    padding: 8px 25px;
+    background: #FA3B4E;
+    color: #fff;
+    font-size: 12px;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+
+}

@@ -1,0 +1,7 @@
+.events-performance {
+    flex-direction: column;
+}
+
+.events-performance .CircularProgressbar .CircularProgressbar-path {
+    stroke: #3CAEA3;
+}

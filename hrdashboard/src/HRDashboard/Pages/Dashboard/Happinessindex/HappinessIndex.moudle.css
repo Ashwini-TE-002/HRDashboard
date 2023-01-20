@@ -1,0 +1,40 @@
+.happiestindex {
+    background: #fff;
+    width: 80%;
+    height: fit-content;
+    border-radius: 15px;
+    background-color: #fff;
+    padding: 16px;
+}
+
+.hindexBox {
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.textbox-hedding h1::before {
+    position: absolute;
+    content: "";
+    width: 50px;
+    height: 3px;
+    top: 2rem;
+    background: #467EEA;
+    border-radius: 10px;
+}
+
+.textbox-hedding h1 {
+    font-size: 1.3rem;
+    position: relative;
+}
+
+.ArrowUp {
+    width: 30px;
+    height: auto;
+}
+
+.happyestindexinnerTxt h6 {
+    color: #018A95;
+    font-size: 3rem;
+    font-weight: 600;
+}

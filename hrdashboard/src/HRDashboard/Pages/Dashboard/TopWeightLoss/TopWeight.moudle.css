@@ -1,0 +1,39 @@
+.hpyindex {
+    background: #fff;
+    width: 80%;
+    height: fit-content;
+    border-radius: 15px;
+    background-color: #fff;
+    padding: 14px 28px 20px 20px;
+    margin-bottom: 10px;
+}
+
+.innerTxt h6 {
+    font-size: 3rem;
+    color: #FFC727;
+    font-weight: 600;
+}
+
+.innerTxt span {
+    font-size: 1.2rem;
+    color: #717171;
+    font-weight: 800;
+    margin-left: 5px;
+    font-family: 'Outfit', sans-serif;
+}
+
+
+.hindexBox {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.textbox-hedding h1 {
+    font-size: 1.3rem;
+}
+
+.ArrowUp {
+    width: 30px;
+    height: auto;
+}

@@ -1,0 +1,31 @@
+.graphbar-contentBox {
+    background: #fff;
+    padding: 1rem;
+    /* width: fit-content; */
+    height: fit-content;
+    border-radius: 20px;
+    /* margin-top: 1.5rem; */
+}
+
+.graphBar {
+    width: 100%;
+}
+
+
+.Averagelife {
+    background: #467EEA;
+    width: 9px;
+    height: 9px;
+    border-radius: 10px;
+    margin-right: 10px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.MetabolicAge {
+    background: #FDADB5;
+    width: 9px;
+    height: 9px;
+    border-radius: 10px;
+    margin-right: 10px;
+    font-family: 'Outfit', sans-serif;
+}

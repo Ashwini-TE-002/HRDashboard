@@ -1,0 +1,59 @@
+/* .welcome-section {
+    display: flex;
+    justify-content: space-between;
+} */
+
+.whats-new {
+    /* margin-top: 4rem; */
+    width: 80%;
+    height: 12.9rem;
+    max-height: auto;
+    border-radius: 15px;
+    background-color: #fff;
+    padding: 30px 20px;
+    margin-bottom: 30px;
+    text-align: right;
+}
+
+.scoreofCompliance-Circle {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.welcome-box {
+    width: 100%;
+    border-radius: 15px;
+    background-color: #F5D8FF;
+    padding: 30px;
+}
+
+.welcome-text {
+    padding-left: 1.5rem;
+}
+
+.welcome-text h4 {
+    color: #3749A6;
+    font-weight: 600;
+    font-family: 'Outfit';
+    font-size: 20px;
+}
+
+.firstComponentRatio h4 {
+    color: #3749A6;
+    font-weight: 500;
+    font-family: 'Outfit';
+}
+
+.welcome-text p {
+    font-family: 'Outfit';
+}
+
+.LottieImage {
+    width: 100% !important;
+}
+
+.responsiveDashboardHeading {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}

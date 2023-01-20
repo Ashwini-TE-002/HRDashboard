@@ -1,0 +1,84 @@
+.reportsData.reports {
+    color: #2655b1;
+    font-size: 1rem;
+    margin-right: 2rem;
+    padding: 0.5rem 1rem;
+    margin-bottom: -2px;
+    font-weight: bold;
+    outline: none;
+    border: none;
+    border-bottom: 3px solid #0758fa;
+    cursor: pointer;
+    transition: all .3s ease;
+    background: transparent;
+}
+
+.reports {
+    color: #5B5A5A;
+    font-size: 1rem;
+    margin-right: 2rem;
+    padding: 0.5rem 1rem;
+    margin-bottom: -2px;
+    font-weight: 800;
+    outline: none;
+    border: none;
+    /* border-bottom: 2px solid #; */
+    cursor: pointer;
+    background: transparent;
+}
+
+
+.activeReports {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 20px;
+    margin-top: 1.5rem;
+}
+
+.activeReports-table {
+    background-color: #F1F4F9;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.activeReports-table>div {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.riskemployee_data {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+/* .question {
+    margin-right: 5rem;
+} */
+
+
+/* .createdat {
+    margin-left: 5rem;
+} */
+
+/* .recipients {
+    margin-left: 1rem;
+    margin-right: -2rem;
+} */
+
+.viewMore {
+    outline: none;
+    border: none;
+    background: transparent;
+}
+
+.survay-activeButton {
+    padding: 8px 25px;
+    background: #1755E7;
+    color: #fff;
+    font-size: 12px;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+}

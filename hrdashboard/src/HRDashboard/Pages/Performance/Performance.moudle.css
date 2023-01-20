@@ -1,0 +1,52 @@
+.performanceContainer {
+    width: calc(100% - 150px);
+    margin: 0;
+    margin-left: 150px;
+    min-height: 100vh;
+}
+
+.performance-main {
+    background: #EFF3FD;
+}
+
+.performance-Wrapper {
+    padding-top: 4rem;
+}
+
+.Dashboard_Main_Headding h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #467EEA;
+    margin-bottom: 1.7rem;
+    position: relative;
+    font-family: 'Outfit', sans-serif;
+}
+
+.Dashboard_Main_Headding h1::before {
+    position: absolute;
+    width: 60px;
+    height: 5px;
+    content: "";
+    background-color: #467EEA;
+    top: 2.5rem;
+    border-radius: 10px;
+}
+
+.Dashboard_Main_Headding h6 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #467EEA;
+    margin-bottom: 1.7rem;
+    position: relative;
+    font-family: 'Outfit', sans-serif;
+}
+
+.Dashboard_Main_Headding h6::before {
+    position: absolute;
+    width: 60px;
+    height: 5px;
+    content: "";
+    background-color: #467EEA;
+    top: 2.5rem;
+    border-radius: 10px;
+}

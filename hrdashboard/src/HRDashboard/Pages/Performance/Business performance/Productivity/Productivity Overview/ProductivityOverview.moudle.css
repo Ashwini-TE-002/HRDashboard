@@ -1,0 +1,13 @@
+/* Productivity-Body {
+
+} */
+
+.Productivity-Graph {
+    background: #fff;
+    padding: 1rem;
+    width: 100%;
+    height: -moz-fit-content;
+    height: fit-content;
+    border-radius: 20px;
+    margin-top: 1.5rem;
+}

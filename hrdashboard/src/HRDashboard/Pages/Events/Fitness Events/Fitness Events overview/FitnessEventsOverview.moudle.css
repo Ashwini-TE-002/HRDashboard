@@ -1,0 +1,29 @@
+.eventmoudle {
+    width: 100%;
+    margin: 0;
+
+}
+
+.eventmoudle>div>div {
+    width: 50em;
+    margin: 0 -8rem;
+}
+
+/* .EventMain-calender {
+    width: 70%;
+} */
+.eventHeader {
+    border: none;
+}
+
+/* .EventMain-calender {
+    overfl;
+} */
+
+
+.eventmoudleBody {
+    width: 100%;
+    padding: 10px;
+}
+
+/* fc-scroller fc-scroller-liquid-absolute */

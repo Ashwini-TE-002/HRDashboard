@@ -1,0 +1,38 @@
+.WorkplaceRateDonetChat {
+    background-color: #fff;
+    padding: 2rem;
+    margin-top: 1rem;
+    /* width: max-content; */
+    border-radius: 20px;
+    margin-right: 3rem;
+}
+
+.doughnutchat-Main {
+    width: 140px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.green {
+    background: #49DEB2;
+    width: 20px;
+    height: 20px;
+    border-radius: 30px;
+    margin-right: 6px;
+}
+
+.red {
+    background: #FA3B4E;
+    width: 20px;
+    height: 20px;
+    border-radius: 30px;
+    margin-right: 6px;
+}
+
+.yellow {
+    background: #FFB200;
+    width: 20px;
+    height: 20px;
+    border-radius: 30px;
+    margin-right: 6px;
+}

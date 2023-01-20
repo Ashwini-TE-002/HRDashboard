@@ -1,0 +1,52 @@
+.SurveyResponses {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 20px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.survay-resMainheadding {
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: 'Outfit', sans-serif;
+}
+
+.firstQuestion {
+    font-size: 1rem;
+    font-weight: 800;
+    font-family: 'Outfit', sans-serif;
+}
+
+.progressbar-box {
+    width: 50%;
+}
+
+.survayprogreebar {
+    display: flex;
+    align-items: center;
+}
+
+.surveyPercentage {
+    margin-left: 1rem;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.questions {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.surveyQuestionsdetails {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.answered {
+    color: #018A95;
+}
+
+.unanswered {
+    color: #FA3B4E;
+}

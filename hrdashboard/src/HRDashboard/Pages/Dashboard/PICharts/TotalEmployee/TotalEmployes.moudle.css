@@ -1,0 +1,58 @@
+.SubscribersEmp {
+    margin-top: 4.3em;
+}
+
+.CompanyDemographicsPieChart {
+    width: fit-content;
+    /* margin: 0 auto; */
+    height: 13.5em;
+}
+
+.CompanyDemographics {
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.TotalEmployeesRatio {
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.subscribers {
+    background: #49DEB2;
+    width: 15px;
+    height: 15px;
+    border-radius: 4px;
+    margin-right: 6px;
+}
+
+.unsubscribers {
+    background: #FA3B4E;
+    width: 15px;
+    height: 15px;
+    border-radius: 4px;
+    margin-right: 6px;
+}
+
+.male {
+    background: #75C1FF;
+    width: 15px;
+    height: 15px;
+    border-radius: 4px;
+    margin-right: 6px;
+}
+
+.female {
+    background: #FF85C0;
+    width: 15px;
+    height: 15px;
+    border-radius: 4px;
+    margin-right: 6px;
+}
+
+.TotalEmployees {
+    margin-top: 3rem;
+    margin-bottom: 1.1rem;
+}

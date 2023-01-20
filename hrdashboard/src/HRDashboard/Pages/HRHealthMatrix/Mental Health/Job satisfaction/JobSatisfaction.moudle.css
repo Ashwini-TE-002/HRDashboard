@@ -1,0 +1,37 @@
+.JobSatisfaction-Wrapper {
+    background-color: #fff;
+    padding: 1.4rem;
+    margin-top: 2rem;
+    /* width: 30%; */
+    height: max-content;
+    border-radius: 20px;
+}
+
+
+.Satisfied {
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background: #FA3B4E;
+}
+
+.Average {
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background: #FFB200;
+}
+
+.Unsatisfied {
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background: #49DEB2;
+}
+
+.Unsatisfied span,
+.Average span,
+.JobSatisfaction {
+    font-size: 12px;
+    text-align: center;
+}

@@ -1,0 +1,77 @@
+.leaderboard-lists {
+    background-color: #fff;
+    width: 97%;
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.dshbrd-leaderbrd-view {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background: #EFF0F4;
+    border-radius: 10px;
+}
+
+.hrleaderboard-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.dsh_userTxt {
+    font-size: 1rem;
+    color: #192A3E;
+    font-weight: 600;
+    font-family: 'Outfit', sans-serif;
+}
+
+.userAvatar {
+    border-radius: 30px;
+    width: 50px;
+    height: auto;
+}
+
+.dsh_leader-txt {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #505470;
+    font-family: 'Outfit', sans-serif;
+}
+
+.leader-Points {
+    margin-left: 1rem;
+}
+
+.Dashbrd-user-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4rem;
+}
+
+.leadRank {
+    background: #FFC727;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 1.5rem;
+    font-family: 'Outfit', sans-serif;
+}
+
+.leadRank1 {
+    background: #A5A5A4;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 1.5rem;
+}

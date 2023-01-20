@@ -1,0 +1,1265 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    .right-navbar.show {
+        display: block !important;
+        width: 75%;
+        left: 25%;
+        animation: 1s slide-left;
+    }
+
+    @keyframes slide-left {
+        from {
+            left: 70%;
+        }
+
+        to {
+            left: 25%;
+        }
+    }
+
+    .subscriptionPlan .performance-score-table.table td,
+    .subscriptionPlan .performance-score-table.table th {
+        padding: 0.3rem;
+        font-size: 13px;
+    }
+
+    .subscriptionPlan .performance-score-table {
+        min-height: 150px;
+    }
+
+    .Hr-Dashboard-main.menu-container {
+        display: none !important;
+        transition: 850ms;
+    }
+
+    .HrDashboard_top_section {
+        display: none !important;
+    }
+
+    .Hr-Dashboard-main.menu-container.active {
+        display: block !important;
+        transition: 850ms;
+    }
+
+    .main-container {
+        width: 100% !important;
+    }
+
+    .performanceContainer {
+        width: 100% !important;
+        margin-left: 0px !important;
+    }
+
+    .totalEmpCol,
+    .moodmeter-Col {
+        padding: auto !important;
+        margin: auto !important;
+    }
+
+    .hpyindex {
+        margin-top: 1rem !important;
+    }
+
+    .EngagementScoreCol {
+        padding: auto !important;
+    }
+
+    .right-navbar {
+        display: none !important;
+    }
+
+    .whats-new {
+        width: auto !important;
+        height: auto !important;
+        margin: 1rem 1rem !important;
+    }
+
+    .whats-new .firstComponentRatio h4 {
+        font-size: 1.2rem;
+    }
+
+    .dsh_leader-txt {
+        font-size: 10px !important;
+    }
+
+    .dsh_userTxt {
+        font-size: 10px !important;
+    }
+
+    .dsh_userTxt {
+        font-size: 10px !important;
+    }
+
+    .hrleaderboard-content .leadRank {
+        width: 30px;
+        height: 30px;
+    }
+
+    .avrage-life-Wrapper span,
+    .MetabolicAge-Wrapper span {
+        font-size: 0.8rem;
+    }
+
+    .data-indicator .data-indicator-txt {
+        font-size: 13px;
+    }
+
+
+    .welcome-box {
+        margin-bottom: 1rem !important;
+        padding: 10px !important;
+        align-items: center !important;
+        width: auto !important;
+        margin: 1rem 1rem !important;
+    }
+
+    .responsivenessRateWrapperr {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .EngagementScore_sectionWrap {
+        margin-left: 0rem !important;
+        margin-bottom: 1rem;
+    }
+
+    .hrDashboard-LineChat {
+        margin-top: 1rem;
+    }
+
+    .TotalEmployeesRatio {
+        margin-bottom: 1rem;
+    }
+
+    .companydemography-col .CompanyDemographics {
+        margin-top: 1rem;
+        margin-right: 1rem;
+    }
+
+    .hpyindex {
+        width: 100% !important;
+    }
+
+    .happiestindex {
+        width: 100% !important;
+    }
+
+    .hrDashboard-LineChat {
+        width: 100% !important;
+    }
+
+    .radialbar-wraping {
+        flex-direction: column !important;
+    }
+
+    .hrleaderboard-content .Dashbrd-user-info {
+        margin-left: 1rem;
+        font-size: 10px;
+    }
+
+    .Dashbrd-user-info .dsh_userTxt {
+        font-size: 9px;
+    }
+
+    .MoodMeter_Ratio .Mood-TextBox h1 {
+        font-size: 1.3rem;
+    }
+
+    .MoodMeter_Ratio .Mood-TextBox {
+        margin-left: 2.5rem;
+    }
+
+
+    .moodmeter-Col .MoodMeter_wrapper,
+    .totalEmpCol .TotalEmployeesRatio {
+        margin: 0 1rem;
+    }
+
+    .responsivenessRateWrapperr .ResponseRate_sectionWrap {
+        /* margin: 1rem; */
+        margin-bottom: 1rem !important;
+        margin-top: 1rem !important;
+    }
+
+    .radialbar-div .recharts-wrapper {
+        margin: 0 auto;
+    }
+
+    .profile-section .header-icons {
+        margin-left: 1rem;
+    }
+
+    .header-mainArea .hamburger-icon {
+        display: block;
+    }
+
+    .welcome-box .welcome-text h4 {
+        font-size: 1rem;
+    }
+
+    .welcome-box .welcome-text p {
+        font-size: 0.7rem;
+    }
+
+    .welcome-box .welcome-box .wavehand-style span {
+        width: 70px;
+    }
+
+    .StressManagement-col .Radialbar-chat {
+        margin-top: 1rem;
+        width: auto;
+    }
+
+    .TotalEmployeesRatio .CompanyDemographicsPieChart {
+        margin: 0 auto;
+    }
+
+    .companydemography-col .CompanyDemographicsPieChart {
+        margin: 0 auto;
+    }
+
+    .performance-Wrapper .progressEnergy-pBar {
+        width: auto;
+    }
+
+    .performance-Wrapper .StatusSummary-Graph {
+        width: auto;
+        margin-top: 1rem;
+    }
+
+    .PerformanceScore-mainWrapper .performance-score {
+        flex-direction: column;
+    }
+
+    .Performance-score .perofrmance-teamName {
+        margin-left: 0rem;
+    }
+
+    .performance_box .perfo-txt {
+        font-size: 11px;
+    }
+
+    .Performance-score .btn-status {
+        padding: 9px 10px;
+        font-size: 10px;
+
+    }
+
+    .performance-Wrapper .Dashboard_Main_Headding h6 {
+        font-size: 1.3rem;
+    }
+
+    .performance-Wrapper .Dashboard_Main_Headding h6::before {
+        top: 1.5rem;
+    }
+
+    .performance-score .Perfo-text {
+        font-size: 1rem;
+        font-family: 'Outfit', sans-serif;
+    }
+
+    .EnergyRateGraph {
+        margin-top: 1rem !important;
+    }
+
+    .Energymoudle,
+    .WorkplaceRateDonetChat {
+        width: auto !important;
+    }
+
+    .performanceContainer .Energyand_Workplace h6 {
+        font-size: 1rem;
+    }
+
+    .Energyand_Workplace h6:before {
+        top: 1.5em;
+    }
+
+    .Health_DropdownMenu .itemActive.activesection {
+        font-size: 13px;
+        margin-right: 1rem;
+    }
+
+    .Health_DropdownMenu .activesection {
+        font-size: 13px;
+        margin-right: 1rem;
+    }
+
+    .stressMeter-Col {
+        padding: 0rem;
+    }
+
+    .stressMeter-Col .stressMeter {
+        width: auto;
+        margin-top: 1rem;
+    }
+
+    .circularProgressdiv .circularProgressdiv-processorbar {
+        width: 60%;
+    }
+
+    .circularProgressdiv .stressMeterContent {
+        margin-left: 1rem;
+    }
+
+    .HealthMetrics-Body .Dashboard_Main_Headding h6 {
+        font-size: 1rem;
+    }
+
+    .HealthMetrics-Body .Dashboard_Main_Headding h6:before {
+        height: 3px;
+        top: 1.3rem;
+    }
+
+    .HealthMetrics-Body .Health_DropdownMenu {
+        margin-top: 1rem;
+    }
+
+    .events-overview-wrapper .EventNames-content {
+        flex-direction: column;
+        align-items: normal
+    }
+
+    .events_overview .events-txtName {
+        font-size: 11px;
+    }
+
+    .events-ComponentsPages .fitnessEvents-Div {
+        margin-bottom: 1rem !important;
+    }
+
+    .eventsProgressbar-mobile .events_overview {
+        margin: 0 1.5rem;
+    }
+
+
+
+    .ActivityRespondents {
+        margin-top: 1rem;
+    }
+
+    .performance-Wrapper .Dashboard_Main_Headding h1 {
+        font-size: 1.5rem;
+    }
+
+    .performance-Wrapper .Dashboard_Main_Headding h1::before {
+        top: 2rem;
+    }
+
+    .HealthMetrics-Body .Dashboard_Main_Headding h6 {
+        font-size: 1.2rem;
+    }
+
+    .HealthMetrics-Body .Dashboard_Main_Headding h6:before {
+        top: 1.5rem;
+    }
+
+    .subscriptionactiveDashboard .ActiveSubscriptionPieChat {
+        width: 40%;
+    }
+
+    .subscriptionPlan .Riskemployee-wrapper {
+        flex-direction: column;
+    }
+
+    .subscribers-Txt {
+        margin-bottom: 1.5rem;
+    }
+
+    .redzone-box .redzone-wrapper {
+        justify-content: center;
+
+    }
+
+    .redzone-box .redzoneChart {
+        margin-top: 2rem;
+    }
+
+    .redzone-box .Redzone-headding h6 {
+        font-size: 1rem;
+    }
+
+    .RiskEmployee .Riskemployee-wrapper {
+        flex-direction: column;
+    }
+
+    .homepageDashboard .performance-Col {
+        padding: 0%;
+    }
+
+    .RiskEmployee-TeamData>div {
+        padding: 0% !important;
+        font-size: 12px !important;
+    }
+
+
+    .riskemployee .RiskEmployee-TeamName {
+        padding: 0;
+        font-size: 14px;
+    }
+
+    .RiskEmployee-Status {
+        padding: 0%;
+        font-size: 14px;
+    }
+
+    .riskemployee .RiskEmployee-Score {
+        font-size: 14px;
+        padding: 0;
+        text-align: center;
+    }
+
+    .riskemployee .RiskEmployee-Score {
+        font-size: 13px;
+        padding: 0%;
+    }
+
+    .riskemployee_data .RiskEmployee-TeamData {
+        font-size: 13px;
+        padding: 0;
+    }
+
+    .riskemployee_data .RiskEmployee-ScoreData {
+        font-size: 13px;
+        padding: 0;
+    }
+
+    .riskemployee_data .RiskEmployee-ScoreBtn {
+        font-size: 13px;
+        padding: 0;
+    }
+
+    .riskemployee .riskemployee_data {
+        padding: 1rem 0rem;
+    }
+
+    .Health_DropdownMenu .reportsData.reports {
+        font-size: 0.7rem;
+        margin-right: 0rem;
+        padding: 0.5rem 0.4rem;
+    }
+
+    .Health_DropdownMenu .reports {
+        font-size: 0.6rem;
+        margin-right: 0rem;
+        padding: 0.5rem 0.4rem;
+    }
+
+    .HealthMetrics-Body .Dashboard_Main_Headding h6 {
+        font-size: 1.5rem;
+    }
+
+    .HealthMetrics-Body .Dashboard_Main_Headding h1::before {
+        top: 2rem;
+    }
+
+    /* .activeReports .activeReports-wrapper {
+        flex-direction: column;
+    } */
+
+    .activeReports .RiskEmp-Txt h1 {
+        font-size: 0.7rem;
+        margin-bottom: 1rem;
+
+    }
+
+    .activeReports .RiskEmp-Txt h1::before {
+        top: 1.1rem;
+    }
+
+    .activeReports-table .activeReports-Title {
+        padding: 0rem;
+        font-size: 11px;
+    }
+
+    .activeReports-table .activeReports-createdat {
+        /* padding: 0rem; */
+        font-size: 11px;
+    }
+
+    .activeReports-table .activeReports-question {
+        /* padding: 0rem; */
+        font-size: 11px;
+    }
+
+    .activeReports-table .activeReports-recipients {
+        padding: 0rem;
+        font-size: 11px;
+    }
+
+    .employee-Data .Employee_informaction {
+        padding: 0;
+        font-size: 14px;
+    }
+
+    .Employee_informaction .employee-infoData {
+        padding: 0;
+        font-size: 13px;
+    }
+
+    .Employee_informaction .employee-totalQuestion {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .Employee_informaction .employee-recipients-count {
+        padding: 0;
+        font-size: 13px;
+    }
+
+    .Employee_informaction .employee-Created_at {
+        padding: 0;
+        font-size: 13px;
+    }
+
+    .Employee_informaction .survay-activeButton {
+        padding: 4px 7px;
+        font-size: 12px;
+        text-align: end;
+    }
+
+    .events-performance .Dashboard_Main_Headding h6 {
+        font-size: 1.3rem;
+    }
+
+    .events-performance .Dashboard_Main_Headding h6::before {
+        top: 1.9rem;
+    }
+
+    .survey-responseRow .survey-second-Row {
+        text-align: end;
+    }
+
+    .moodMeterScore .moodmeter-txt-wrapper {
+        flex-direction: column-reverse;
+    }
+
+    .moodmeter-txt-wrapper,
+    .moodmeter-text {
+        padding: 1rem 0;
+    }
+
+    .energyPieChart .energyProgressbar {
+        width: 35%;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    .energyComponents .AlchoholChat {
+        margin-top: 2rem;
+    }
+
+    .HealthMetrics-Body .Dashboard_Main_Headding h6 {
+        font-size: 1.6rem;
+    }
+
+    /* .moodMeterScore .moodmeterRow {} */
+    .events-performance .subscriptionactiveDashboard {
+        margin-bottom: 2rem;
+    }
+
+    .sidebar.active {
+        left: 29% !important;
+    }
+
+    /* .ProgressbarEngagementScore {
+
+    } */
+
+    .ProgressbarEngagementScore .CircularProgressbar {
+        width: auto;
+    }
+
+    .sidebar {
+        width: 230px !important;
+    }
+
+    .sidebar-containerWrapper .sidebar {
+        width: 200px;
+    }
+
+    .eventsScoreTxt .btn-events {
+        font-size: 0.6rem;
+    }
+
+    .Donutchart-HealthScore .CompanyDemographicsData {
+        display: block;
+    }
+
+    .TeamScore-section .teamScoreProgressbar {
+        margin: 0 auto;
+    }
+
+    .teamScoreLineChatCol .teamScoreLineChat {
+        margin: 2rem 0;
+    }
+
+    .LifestyleManagement-Col .LifestyleManagement {
+        width: auto;
+    }
+
+    .main-container .moodmeter-Col {
+        padding: auto !important;
+    }
+
+    .moodmeter-Col .MoodMeter_wrapper {
+        margin-bottom: 1rem !important;
+    }
+
+    .header-mainArea .DashboardLogo {
+        margin-left: 1rem;
+    }
+
+    .performance-score-table .table td,
+    .table th {
+        padding: 5px;
+        font-size: 9.5px;
+    }
+
+    .performance-score-table td.tbody-td {
+        padding: 5px;
+        font-size: 14px;
+    }
+
+    .survay-activeButton {
+        padding: 5px 5px !important;
+        font-size: 9.5px !important;
+    }
+
+    .WorkplaceRateDonetChat .StatusReport-DonetChart {
+        width: 40%;
+    }
+
+    .eventmoudleBody.modal-body {
+        padding: 10px !important;
+    }
+
+    .moodmeter-Col {
+        margin: 1rem !important;
+    }
+
+    /* .responsivenessRateWrapperr .EngagementScore_sectionWrap {
+        margin: 1rem !important;
+    } */
+
+    .HrLeaderboard-Col {
+        margin: 1rem !important;
+    }
+
+    .AverageLifeMetabolicAge-Col .graphbar-contentBox {
+        margin: 1rem !important;
+    }
+
+    .avrage-life-Wrapper span,
+    .MetabolicAge-Wrapper span {
+        font-size: 0.7rem;
+    }
+
+
+    .engagement-score-wrapper,
+    .moodmeter-section {
+        flex-direction: column;
+    }
+
+}
+
+@media (min-width: 425px) and (max-width:480px) {
+    .right-navbar.show {
+        display: block !important;
+        width: 60%;
+        left: 40%;
+        animation: 1s slide-left;
+    }
+
+    @keyframes slide-left {
+        from {
+            left: 70%;
+        }
+
+        to {
+            left: 40%;
+        }
+    }
+
+    .Energymoudle .gaugeCharts-energyRate {
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 375px) and (max-width:424px) {}
+
+@media (min-width: 481px) and (max-width: 768px) {
+    .right-navbar.show {
+        display: block !important;
+        width: 35%;
+        left: 65%;
+        animation: 1s slide-left;
+    }
+
+    /* .HrDashboard-Slider {
+        display: none !important;
+    } */
+    .HrDashboard_top_section {
+        display: none !important;
+    }
+
+    @keyframes slide-left {
+        from {
+            left: 70%;
+        }
+
+        to {
+            left: 65%;
+        }
+    }
+
+    .main-container {
+        width: 100% !important;
+    }
+
+    .first-section-col .whats-new {
+        width: auto;
+        margin: 1rem !important;
+    }
+
+    .StressManagement-col .Radialbar-chat {
+        width: auto;
+    }
+
+    .EngagementScoreCol .responsivenessRateWrapperr {
+        margin: 1rem;
+    }
+
+    .responsivenessRateWrapperr .ResponseRate_sectionWrap {
+        margin-right: 0rem;
+    }
+
+    .TotalEmployeesRatio .CompanyDemographicsPieChart {
+        margin: 0 auto;
+    }
+
+    .moodmeter-Col .MoodMeter_wrapper {
+        margin: 1rem;
+    }
+
+    /* .secondCol .hpyindex,
+    .secondCol .happiestindex {
+        width: 100%;
+        margin-top: 1rem;
+    } */
+    .secondCol .happiestindex {
+        margin-top: 0rem !important;
+    }
+
+    .hindexBox .happiestindex {
+        padding: 10px;
+    }
+
+    .hindexBox .innerTxt {
+        justify-content: center;
+    }
+
+    .hindexBox.happyestindexinnerTxt h6 {
+        font-size: 2rem;
+    }
+
+    .secondCol .hpyindex {
+        padding: 14px;
+        width: auto;
+    }
+
+    .secondCol .happiestindex {
+        padding: 14px;
+        width: auto;
+    }
+
+    .hindexBox .innerTxt h6 {
+        font-size: 2rem;
+    }
+
+    .hindexBox .happyestindexinnerTxt h6 {
+        font-size: 2rem;
+    }
+
+    .secondCol .hpyindex {
+        margin-top: 0rem !important;
+    }
+
+    .right-navbar {
+        display: none !important;
+    }
+
+    .header-mainArea .hamburger-icon {
+        display: block;
+    }
+
+    .Engagement-col .hrDashboard-LineChat {
+        width: 105%;
+        margin-top: 1rem;
+    }
+
+    .AverageLifeMetabolicAge-Col .graphbar-contentBox {
+        margin: 1rem;
+    }
+
+    .HrLeaderboard-Col .leaderboard-lists {
+        margin: 0rem auto;
+        width: 95%;
+    }
+
+    .performanceContainer {
+        width: 100% !important;
+        margin-left: 0px !important;
+    }
+
+    /* perfomancepage */
+    .performance-Wrapper .progressEnergy-pBar {
+        width: auto;
+    }
+
+    .performance-Wrapper .performanceChat {
+        width: auto;
+    }
+
+    /* EnergyAndWorkplace */
+    .EnergyRate-Col .Energymoudle {
+        margin: 1rem;
+        width: auto;
+    }
+
+    .gaugeCharts-energyRate>div {
+        margin: 0 auto;
+    }
+
+    .WorkplaceRateDonetChart-Col .WorkplaceRateDonetChat,
+    .EnergyRateGraph-Col .EnergyRateGraph,
+    .WorkspaceOverviewBar-Col .WorkspaceOverview-Bar {
+        width: auto;
+        margin: 1rem;
+    }
+
+    .StatusSummary-Col .StatusSummary-Graph {
+        width: auto;
+        margin-top: 1rem;
+    }
+
+    .performance-Wrapper .Dashboard_Main_Headding h6 {
+        font-size: 1.5rem;
+    }
+
+    /* healthmatrix */
+    .WorkplaceRateDonetChat-Col .WorkplaceRateDonetChat {
+        width: auto;
+        padding: 1.5rem;
+    }
+
+    .LifestyleManagement-Col .LifestyleManagement {
+        width: auto;
+    }
+
+    .ActiveSubscription-Col .ActiveSubscriptionPieChat {
+        width: 40%;
+        margin: 0 auto;
+    }
+
+    .Subsriptions-Row .ActiveSubscription-Col {
+        margin: 1rem;
+    }
+
+    .subscriptionPlan-Col .subscriptionPlan {
+        margin: 1rem;
+    }
+
+    .subscribers-Txt .subscribers-Txt h6::before {
+        top: 1.3rem;
+    }
+
+    /* .events-performance .eventsProgressbar-mobile {
+        display: flex;
+        flex-direction: column;
+    } */
+
+    /* .fitnessEvents-Div .Fitness_circularBar {
+        width: 30%;
+        margin: 0 auto;
+    } */
+
+    /* .eventsProgressbar-mobile .fitnessEvents-Div {
+        margin: 1rem;
+    } */
+
+    .eventsProgressbar-mobile .events_overview {
+        margin: 1rem;
+    }
+
+    .ActivityRespondents,
+    .eventsgraph {
+        margin: 1rem 0 !important;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .first-section-col .whats-new {
+        margin-top: 0 !important;
+    }
+
+    .Hr-Dashboard-main.menu-container {
+        display: none !important;
+        transition: 850ms;
+    }
+
+    .HrDashboard_top_section {
+        display: none !important;
+    }
+
+    .Hr-Dashboard-main.menu-container.active {
+        display: block !important;
+        transition: 850ms;
+    }
+
+    .sidebar-wrapper .Hr-Dashboard-main.menu-container {
+        display: none !important;
+        transition: 850ms;
+        z-index: 1;
+    }
+
+    /* sidebar-wrapper */
+
+    /* .menu-container .HrDashboard_top_section {
+        display: none;
+    } */
+
+    .moodmeter-Col .MoodMeter_wrapper {
+        margin: 0;
+    }
+
+    .responsivenessRateWrapperr .ResponseRate_sectionWrap {
+        margin-top: 0rem !important;
+    }
+
+    .AverageLifeMetabolicAge-Col .graphbar-contentBox {
+        margin: 0;
+    }
+
+    .HrLeaderboard-Col .leaderboard-lists {
+        width: auto;
+    }
+
+    .Engagement-col .hrDashboard-LineChat {
+        margin-top: 0rem;
+        width: auto;
+    }
+
+    .hpyindex .hindexBox {
+        flex-direction: column;
+    }
+
+    .secondCol .hpyindex {
+        margin-top: 1rem;
+    }
+
+    .TotalEmployeesRatio .CompanyDemographicsPieChart {
+        margin: 0rem;
+    }
+
+    .eventsProgressbar-mobile .ActivityRespondents {
+        margin: 1.5rem !important;
+    }
+
+    .eventsProgressbar-mobile .eventsgraph {
+        margin: 1.5rem !important;
+    }
+
+    .EngagementScorePie-Row .moodMeterScore {
+        margin-top: 1rem;
+    }
+
+    .energyComponents .AlchoholChat {
+        margin-top: 1.5rem;
+    }
+
+    .StressManagement-col .Radialbar-chat {
+        width: auto;
+        margin-top: 1rem;
+    }
+
+    .main-container .TotaleEmployees-Row {
+        justify-content: center;
+    }
+
+    .events-ComponentsPages {
+        flex-direction: column;
+    }
+
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .right-navbar.show {
+        display: block !important;
+        width: 27%;
+        left: 73%;
+        animation: 1s slide-left;
+    }
+
+    @keyframes slide-left {
+        from {
+            left: 75%;
+        }
+
+        to {
+            left: 75%;
+        }
+    }
+
+    .right-navbar {
+        display: none;
+    }
+
+    .main-container {
+        width: 100% !important;
+        margin-left: 160px !important;
+    }
+
+    .welcome-box {
+        padding: 14px !important;
+    }
+
+    .wavehand-style span {
+        font-size: 61px !important;
+    }
+
+    .first-section-col .whats-new {
+        height: 10.8rem;
+    }
+
+    .first-section-col .CircularProgressbar {
+        width: 170%;
+    }
+
+    /* .TotaleEmployees-Row .totalEmpCol {
+        margin: 0 auto;
+    } */
+    .secondCol .hpyindex {
+        margin-top: 1rem;
+    }
+
+    .AverageLifeMetabolicAge-Row .AverageLifeMetabolicAge-Col {
+        margin-bottom: 1rem;
+    }
+
+    .AverageLifeMetabolicAge-Row .Radialbar-chat {
+        margin-bottom: 1rem;
+    }
+
+    .Engagement-col {
+        width: auto;
+    }
+
+    .Engagement-col .hrDashboard-LineChat {
+        width: 100% !important;
+        margin-top: 2rem;
+    }
+
+    .progressEnergy-pBar {
+        width: 60% !important;
+    }
+
+    .PerformanceOverview-Row .performanceChat {
+        width: 100%;
+    }
+
+    .StatusSummary-Col .StatusSummary-Graph {
+        width: 100%;
+        margin: 1rem 0;
+    }
+
+    .EnergyRateGraph-Col {
+        margin-top: 1rem !important;
+    }
+
+    .ActiveSubscription-Col .subscriptionactiveDashboard {
+        margin-bottom: 1rem;
+    }
+
+    .sidebar.active {
+        left: 64% !important;
+    }
+
+    /* .PerformanceOverview-Row */
+
+    /* .AverageLifeMetabolicAge-Col  */
+
+
+
+    /* .first-section-col .whats-new {
+        width: 100%;
+    }
+
+    .welcome-box {
+        margin-bottom: 1rem;
+        width: auto;
+        margin: 1rem;
+    }
+
+    .ResponsiveContainerRecharts {
+        margin: 0 auto;
+    }
+
+    .secondCol .hpyindex,
+    .secondCol .happiestindex {
+        width: 76%;
+        margin-top: 1rem;
+    }
+
+    .hrDashboard-LineChat {
+        width: 75%;
+        margin-top: 1rem;
+    }
+
+    .Engagement-col {
+        padding: 0;
+    }
+
+    .StressManagement-col {
+        padding: 0;
+    }
+
+    .StressManagement-col .Radialbar-chat {
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .Engagement-col.hrDashboard-LineChat {
+        width: 75%;
+    }
+
+    .CompanyDemographics .ResponsiveContainerRecharts {
+        width: 100% !important;
+        height: 85% !important;
+    }
+
+    .CompanyDemographicsPieChart .recharts-wrapper svg {
+        width: 85% !important;
+        height: 85% !important;
+    }
+
+    .TotalEmployees {
+        margin-top: 1.3rem !important;
+        /* margin-bottom: 1.1rem; 
+    /* } 
+
+    .companyChat .SubscribersEmp {
+        margin-top: 1.25rem !important;
+    }
+
+    .companydemography-col {
+        margin-left: 1rem;
+    }
+
+    .CompanyDemographics {
+        width: 112% !important;
+    }
+
+    .Dashbrd-user-info .dsh_userTxt {
+        font-size: 13px;
+    }
+
+    .hrleaderboard-content .Dashbrd-user-info {
+        margin-left: 0rem;
+    }
+
+    .hrleaderboard-content .dsh_userTxt {
+        font-size: 10px !important;
+    }
+
+    .leaderboard-lists {
+        width: 100% !important;
+    }
+
+    /* .hrleaderboard-content .dsh_userTxt {} 
+
+    .hrleaderboard-content .leadRank {
+        width: 30px;
+        height: 30px;
+    }
+
+    .dshbrd-leaderbrd-view .dsh_leader-txt {
+        font-size: 10px;
+    }
+
+    /* rightSidebar 
+    .survayprogreebar>div>div {
+        width: 100px !important;
+    }
+
+    .SecondProgressbar>div>div {
+        width: 150px !important;
+    }
+
+    .right-navbar {
+        width: 24% !important;
+        left: 76% !important;
+    }
+
+    .Team-Progressbar .Team-ProgressbarName {
+        font-size: 11px;
+    }
+
+    .right-navbar .right-sidebarViewBtn {
+        font-size: 1rem;
+    }
+
+    .compliace-overview .TopCompliance span {
+        font-size: 14px;
+    }
+
+    .hamburger-icon .header-mainArea {
+        display: none;
+    }
+
+    .TeamScore-section-Row .TeamDataScoreWrapper {
+        display: flex;
+        margin-bottom: 2rem;
+    }
+
+    .TeamScore-section .TeamScore_section {
+        margin: 0 auto;
+        width: auto;
+        border: none;
+    }
+
+    .teamScoreLineChat-Col .teamScoreLineChat {
+        width: auto !important;
+    }
+
+    .teamScoreLineChatCol .teamScoreLineChat {
+        margin: 2rem 0;
+    }
+
+    .TeamScore_section .teamScoreProgressbar {
+        margin: 0;
+        width: auto
+    }
+
+    .Donutchart-HealthScore .TeamScore-DonetChat {
+        width: auto;
+        margin: 0 auto;
+    }
+
+    .TeamScore-section .Donutchart-HealthScore {
+        margin: 0 auto;
+        margin-top: 2rem;
+    } */
+}
+
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+    .right-navbar {
+        display: none !important;
+    }
+
+    .homepageDashboard .main-container {
+        width: 100%;
+        margin-left: 170px;
+    }
+}

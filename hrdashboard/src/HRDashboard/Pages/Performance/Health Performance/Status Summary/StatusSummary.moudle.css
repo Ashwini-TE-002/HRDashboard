@@ -1,0 +1,13 @@
+.StatusSummary-Graph {
+    background: #106CF6;
+    color: #fff;
+    display: flex;
+    width: 95%;
+    padding: 1rem;
+    border-radius: 20px;
+    /* margin-top: 2rem; */
+}
+
+.StatusSummaryTxt {
+    font-family: 'Outfit', sans-serif;
+}

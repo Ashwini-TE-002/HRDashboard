@@ -1,0 +1,141 @@
+.EngagementScore>div {
+    width: 50em !important;
+}
+
+.responseRate-img {
+    width: 19px;
+    height: 12px;
+}
+
+.EngagementScore-img {
+    width: 20px;
+    height: auto;
+}
+
+.EngagementScore_sectionWrap {
+    /* width: 46%; */
+    height: fit-content;
+    align-items: center;
+    padding: 1rem;
+    background: #fff;
+    border-radius: 20px;
+}
+
+.hrDashboard-HeaddingTxt h1 {
+    /* font-weight: 600; */
+    font-family: 'Outfit', sans-serif;
+    font-size: 1rem;
+    color: #467EEA;
+    padding-bottom: 1rem;
+    position: relative;
+}
+
+.hrDashboard-HeaddingTxt h1::before {
+    content: "";
+    position: absolute;
+    width: 50px;
+    border-radius: 10px;
+    height: 3px;
+    top: 1.4rem;
+    background-color: #467EEA;
+}
+
+.hrDashboard-HeaddingTxt h6 {
+    /* font-weight: 600; */
+    font-family: 'Outfit', sans-serif;
+    font-size: 1rem;
+    color: #467EEA;
+    padding-bottom: 1rem;
+    position: relative;
+}
+
+.hrDashboard-HeaddingTxt h6::before {
+    content: "";
+    position: absolute;
+    width: 50px;
+    border-radius: 10px;
+    height: 3px;
+    top: 1.4rem;
+    background-color: #467EEA;
+}
+
+.meter>div>svg>text {
+    font-size: 1.5rem !important;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+    /* width: 40%; */
+}
+
+.EngagementScore {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.EngagementScore_Ratio {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.ResponseRatio-contbox {
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/*  */
+.EngagementScoreTxt h4 {
+    font-size: 0.95rem;
+    font-weight: 400;
+    font-family: 'Outfit', sans-serif;
+}
+
+.EngagementScoreDetails h1 {
+    font-size: 2rem;
+    color: #ECA336;
+    font-weight: 600;
+    font-family: 'Outfit', sans-serif;
+}
+
+.benchmark h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: 'Outfit', sans-serif;
+    color: #467EEA;
+}
+
+.eventManagementPopup {
+    width: 100%;
+}
+
+.eventMoudleCloseBtn {
+    outline: none;
+    color: #FA3B4E;
+    background: transparent;
+    border: transparent;
+}
+
+
+
+.event-moudlePopupbody {
+
+    overflow-y: scroll;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    height: 430px;
+}
+
+.event-moudlePopupbody::-webkit-scrollbar {
+    padding: 1px 0;
+    width: 1px;
+    background-color: #cfcfcf;
+}
+
+.event-moudlePopupbody::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+    background-color: transparent;
+}
+
+.event-moudlePopupbody::-webkit-scrollbar-track {
+    background-color: #fff;
+}

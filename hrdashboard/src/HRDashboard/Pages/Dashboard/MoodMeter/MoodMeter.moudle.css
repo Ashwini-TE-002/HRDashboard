@@ -1,0 +1,71 @@
+.MoodMeter_wrapper {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 20px;
+}
+
+.MoodMeter_Ratio {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background: #fff; */
+}
+
+.mood_meter-circlebar {
+    width: 33%;
+}
+
+
+.Mood-TextBox {
+    margin-left: 1.5rem;
+}
+
+.Mood-TextBox h1 {
+    font-weight: 800;
+    font-style: normal;
+    font-family: 'Outfit', sans-serif;
+}
+
+.meter>div>svg>text {
+    font-size: 1.5rem !important;
+    font-family: 'Outfit', sans-serif;
+}
+
+.moodmeterPopup {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: blue;
+}
+
+.MoodMeterBox {
+    width: 100%;
+    margin: 0;
+}
+
+.MoodMeterBox>div>div {
+    width: 50em;
+    margin: 0 -8rem;
+}
+
+.HappymoodCircularProgressbar {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.bargraphtext-wrapper {
+    background: #DFDFDF;
+    padding: 10px;
+    color: #555555;
+    font-family: 'Outfit', sans-serif;
+}
+
+.innerbox-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.moodmeter-text h6 {
+    color: #08BE80;
+    padding: 10px 2rem;
+}

@@ -1,0 +1,32 @@
+.progressEnergy-pBar {
+    background-color: #fff;
+    padding: 1rem;
+    width: 35%;
+    border-radius: 20px;
+}
+
+.avrageProScore {
+    width: 20px;
+    height: auto;
+    margin-right: 10px;
+}
+
+
+
+.energyProgressBar {
+    width: 30%;
+    margin-right: 2rem;
+}
+
+.energy_score {
+    color: #49DEB2;
+    margin-right: 10px;
+}
+
+.progressbar-BoxTxt h1 {
+    color: #467EEA;
+    font-size: 2.7rem;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}

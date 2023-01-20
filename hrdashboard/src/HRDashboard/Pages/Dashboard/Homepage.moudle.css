@@ -1,0 +1,33 @@
+.main-container {
+    width: calc(100% - 385px);
+    margin: 0 auto;
+    padding: 0;
+}
+
+.DashboardHeading h6 {
+    font-size: 1.3rem;
+    color: #467EEA;
+    font-family: "Outfit", sans-serif;
+}
+
+.homepageDashboard {
+    background: #EFF3FD;
+}
+
+
+.graph_box {
+    display: flex;
+    flex: 50%;
+}
+
+.graph-WrapperBox {
+    width: 44%;
+}
+
+.homepage-section {
+    margin-top: 4rem;
+}
+
+.hr-nodata-wrapper .no-data-found-wrapper {
+    margin-top: 5em;
+}
